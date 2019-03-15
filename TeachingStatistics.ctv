@@ -172,7 +172,6 @@
     <pkg>ElemStatLearn</pkg>
     <pkg priority="core">exams</pkg>
     <pkg>faraway</pkg>
-    <pkg>fivethirtyeight</pkg>
     <pkg>gganimate</pkg>
     <pkg>ggplot2</pkg>
     <pkg>HSAUR3</pkg>
