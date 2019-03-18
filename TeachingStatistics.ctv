@@ -3,7 +3,7 @@
   <name>TeachingStatistics</name>
   <topic>Teaching Statistics</topic>
   <maintainer email="p.northrop@ucl.ac.uk">Paul Northrop</maintainer>
-  <version>2019-03-14</version>
+  <version>2019-03-18</version>
   
   <info>
     <p>This CRAN task view gives information about packages with features 
@@ -139,6 +139,9 @@
 	<a href="https://www.springer.com/gb/book/9780387954578"> Modern Applied Statistics 
 	with S</a>, Fourth Edition, Springer, New York. <a href="http://www.stats.ox.ac.uk/pub/MASS4">Further resources</a>.</li>
 
+	<li><pkg>moderndive</pkg>: Ismay, C. and Kim, A. Y. (2019) 
+	<a href="https://moderndive.com/"> ModernDive: Statistical Inference via Data Science</a>.  See also <pkg>infer</pkg>.</li>
+
 	<li><pkg>MPV</pkg>: Montgomery, D.C., Peck, E. A. and Vining, G. (2012),
 	<a href="https://www.wiley.com/en-gb/Introduction+to+Linear+Regression+Analysis%2C+5th+Edition-p-9781118627365"> 
 	Introduction to Linear Regression Analysis</a>, John Wiley and Sons, Inc.
@@ -149,6 +152,9 @@
  	 <a href="https://www.openintro.org/stat/textbook.php?stat_book=os"> OpenIntro Statistics</a>, 
  	 <a href="https://www.openintro.org/stat/textbook.php?stat_book=isrs"> Introductory Statistics with Randomization and Simulation</a>, 
  	 <a href="https://www.openintro.org/stat/textbook.php?stat_book=aps">Advanced High School Statistics</a>.</li>
+
+	<li><pkg>Sleuth2</pkg> and <pkg>Sleuth3</pkg>: Ramsey, F. and Schafer, D. (2013), <a href="http://www.statisticalsleuth.com/">The Statistical Sleuth: a Course in Methods of Data Analysis</a>, 
+	Brooks / Cole Cengage Learning.</li>
 	
 	<li><pkg>SMPracticals</pkg>: Davison, A. C. (2003), 	
 	<a href="https://doi.org/10.1017/CBO9780511815850">Statistical Models</a>, 
@@ -175,16 +181,20 @@
     <pkg>gganimate</pkg>
     <pkg>ggplot2</pkg>
     <pkg>HSAUR3</pkg>
+    <pkg>infer</pkg>
     <pkg>ISwR</pkg>
     <pkg>LearnBayes</pkg>
     <pkg>learnstats</pkg>
     <pkg priority="core">MASS</pkg>
+    <pkg>moderndive</pkg>
     <pkg>MPV</pkg>
     <pkg priority="core">mosaic</pkg>
     <pkg>openintro</pkg>
     <pkg>ProfessR</pkg>
     <pkg priority="core">Rcmdr</pkg>
     <pkg>shiny</pkg>
+    <pkg>Sleuth2</pkg>
+    <pkg>Sleuth3</pkg>
     <pkg>smovie</pkg>
     <pkg>swirl</pkg>
     <pkg>swirlify</pkg>
