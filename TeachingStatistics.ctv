@@ -3,7 +3,7 @@
   <name>TeachingStatistics</name>
   <topic>Teaching Statistics</topic>
   <maintainer email="p.northrop@ucl.ac.uk">Paul Northrop</maintainer>
-  <version>2019-03-18</version>
+  <version>2019-05-13</version>
   
   <info>
     <p>This CRAN task view gives information about packages with features 
@@ -15,7 +15,8 @@
    
     <p> The packages are grouped into three broad topics: 
     teaching, examination and packages associated with Statistics books.
-    The latter is for books that are general enough to be of potential               interest to a wide audience of teachers of Statistics.  They should
+    The latter is for books that are general enough to be of potential
+    interest to a wide audience of teachers of Statistics.  They should
     concern models and methods with wide applicability and not be tied 
     closely to a particular application.</p>
 
@@ -33,7 +34,13 @@
     via plug-ins.  The R commands are shown in the console.
     See the <a href="https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/">
     The R Commander homepage</a> for more information. </li>
-  <li><pkg>swirl</pkg> uses the R console to provide an interactive learning environment for students to learn Statistics.  Students select courses to download from the <a href="https://github.com/swirldev/swirl_courses">swirl_courses GitHub page</a> and are provided with immediate feedback as they work. A variety of topics are available, under the general headings of Exploratory Data Analysis, Statistical Inference and Regression Models.  Teachers can author and share their own swirl courses using the <pkg>swirlify</pkg> package. See also the <a href="https://swirlstats.com/"> swirl home page</a>
+  <li><pkg>swirl</pkg> uses the R console to provide an interactive learning
+    environment for students to learn Statistics.  Students select courses
+    to download from the <github>swirldev/swirl_courses</github> GitHub page
+    and are provided with immediate feedback as they work. A variety of
+    topics are available, under the general headings of
+    Exploratory Data Analysis, Statistical Inference and Regression Models.
+    See also the <a href="https://swirlstats.com/"> swirl home page</a>
   </li>
   <li><pkg>mosaic</pkg> contains a wide range of tools to assist in
     teaching of basic, and more advanced ideas and techniques in mathematics, 
@@ -197,7 +204,6 @@
     <pkg>Sleuth3</pkg>
     <pkg>smovie</pkg>
     <pkg>swirl</pkg>
-    <pkg>swirlify</pkg>
     <pkg>SMPracticals</pkg>
     <pkg>RndTexExams</pkg>
     <pkg>TeachBayes</pkg>
@@ -210,10 +216,11 @@
   <a href="https://stat.ethz.ch/mailman/listinfo/r-sig-teaching">Mailing list: R Special Interest Group on Teaching Statistics using R</a>
   <a href="https://data.fivethirtyeight.com/">ABC News' FiveThirtyEight: opinion poll, politics, economics and sports datasets, blogs and some R code.</a> 
   <a href="https://CRAN.R-project.org/package=fivethirtyeight">The fivethirtyeight package: unofficial collection of datasets and code from FiveThirtyEight.</a>
-  <a href="http://www.R-exams.org">R/exams homepage</a>  
+  <a href="http://www.R-exams.org/">R/exams homepage</a>  
   <a href="https://www.openintro.org/">OpenIntro text books and R Labs</a>
-  <a href="http://mosaic-web.org">Project MOSAIC homepage</a>
-  <a href="https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/"> The R Commander homepage</a>  
-  <a href="https://swirlstats.com/"> The swirl home page</a>  
+  <a href="http://mosaic-web.org/">Project MOSAIC homepage</a>
+  <a href="https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/">The R Commander homepage</a>  
+  <a href="https://swirlstats.com/">The swirl home page</a>  
+  <github>swirldev/swirl_courses</github>
   </links>
 </CRANTaskView>
