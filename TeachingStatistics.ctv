@@ -3,7 +3,7 @@
   <name>TeachingStatistics</name>
   <topic>Teaching Statistics</topic>
   <maintainer email="p.northrop@ucl.ac.uk">Paul Northrop</maintainer>
-  <version>2019-05-13</version>
+  <version>2019-06-17</version>
   
   <info>
     <p>This CRAN task view gives information about packages with features 
@@ -65,6 +65,8 @@
     distributions of the mean (cf. central limit theorem), the maximum 
     (cf. extremal types theorem) and the (Fisher transformation of the) 
     correlation coefficient; simple linear regression; hypothesis testing. 
+  </li>
+  <li><pkg>visualize</pkg> provides graphs of the pdf or pmf of various continuous and discrete probability distributions, annotated with the mean and variance of the distribution.  Shading is used to indicate an interval (lower tail, upper tail, two-tailed or a user-supplied interval) within which the random variable lies with a user-supplied probability.
   </li>
   <li><pkg>LearnBayes</pkg> provides functions and to illustrate the 
     essential ideas of Bayesian inference, such as the roles of the prior,
@@ -212,6 +214,7 @@
     <pkg>TeachingDemos</pkg>
     <pkg>TexExamRandomizer</pkg>
     <pkg>vcd</pkg>
+    <pkg>visualize</pkg>
   </packagelist>
 
   <links>
