@@ -42,7 +42,7 @@
     Exploratory Data Analysis, Statistical Inference and Regression Models.
     Teachers can author and share their own swirl courses using the <github>swirldev/swirlify</github>
     package (currently on Github only).
-    See also the <a href="https://swirlstats.com/"> swirl home page</a>
+    See also the <a href="https://swirlstats.com/"> swirl home page.</a>
   </li>
   <li><pkg>mosaic</pkg> contains a wide range of tools to assist in
     teaching of basic, and more advanced ideas and techniques in mathematics,
@@ -96,6 +96,8 @@
     (cf. central limit theorem) and variance, probability calculator for
     common distributions, Bayesian inference for proportions, multinomial
     counts, means and variances.</li>
+  <li><pkg>BetaBit</pkg> provides games for students to play in the R console, including one that involves data-cleaning and regression modelling.  See the <a href="http://betabit.wiki/"> BetaBit home page</a>.</li>
+  <li><pkg>DALEX</pkg> provides functions to explore and understand predictive models. The <a href="https://github.com/ModelOriented/DALEX"> DALEX GitHub page</a> includes two teaching-related showcases.</li>
 
     </ul>
 
@@ -136,6 +138,8 @@
 	<li><pkg>Bolstad</pkg>: Bolstad, W. M. and Curran, J. M. (2016),
 	<a href="https://doi.org/10.1002/9781118593165">Introduction to Bayesian Statistics</a>, Third Edition. John Wiley and Sons, Inc.</li>
 
+	<li><pkg>car</pkg>, <pkg>carData</pkg>, <pkg>effects</pkg>: Fox, J, and Weisberg, S. (2019), <a href="https://uk.sagepub.com/en-gb/eur/an-r-companion-to-applied-regression/book246125">An R Companion to Applied Regression</a>, Springer Verlag, New York.  <a href="https://socialsciences.mcmaster.ca/jfox/Books/Companion/index.html">Further resources</a>. </li>
+	
  	<li><pkg>ElemStatLearn</pkg>: Hastie, T., Tibshirani, R. and Friedman, J.
  	(2009). <a href="https://www.springer.com/gb/book/9780387848570"> The Elements
  	 of Statistical Learning: Data Mining, Inference, and Prediction</a>, Second
@@ -146,7 +150,10 @@
  	 <a href="https://www.crcpress.com/Linear-Models-with-R-Second-Edition/Faraway/p/book/9781439887332"> Linear Models with R</a> (2014), CRC Press,
  	 <a href="https://www.crcpress.com/Extending-the-Linear-Model-with-R-Generalized-Linear-Mixed-Effects-and/Faraway/p/book/9781498720960"> Extending the Linear Model with R</a> (2016), CRC Press. </li>
 
-	<li><pkg>HSAUR3</pkg>: Hothorn, T and Everitt, B. S. (2014),
+	<li><pkg>HH</pkg>: Heiberger, R. M. and Holland B.  (2015),
+	<a href="https://doi.org/10.1007/978-1-4939-2122-5">Statistical Analysis and Data Display: An Intermediate Course with Examples in R</a>, Second edition. Springer-Verlag, New York.</li>
+	
+	<li><pkg>HSAUR3</pkg>: Hothorn, T. and Everitt, B. S. (2014),
 	<a href="https://www.crcpress.com/A-Handbook-of-Statistical-Analyses-using-R-Third-Edition/Hothorn-Everitt/p/book/9781482204582">A Handbook of Statistical Analyses using R</a>, Third edition. New York: Chapman and Hall/CRC.</li>
 
 	<li><pkg>ISwR</pkg>:  Dalgaard, P. (2008),
@@ -170,6 +177,8 @@
  	 <a href="https://www.openintro.org/stat/textbook.php?stat_book=isrs"> Introductory Statistics with Randomization and Simulation</a>,
  	 <a href="https://www.openintro.org/stat/textbook.php?stat_book=aps">Advanced High School Statistics</a>.</li>
 
+	<li><pkg>regtools</pkg>: Matloff, N. (2017), <a href="https://www.crcpress.com/Statistical-Regression-and-Classification-From-Linear-Models-to-Machine/Matloff/p/book/9781498710916">Statistical Regression and Classification: from Linear Models to Machine Learning</a>, New York: Chapman and Hall/CRC.</li>
+	
 	<li><pkg>Sleuth2</pkg> and <pkg>Sleuth3</pkg>: Ramsey, F. and Schafer, D. (2013), <a href="http://www.statisticalsleuth.com/">The Statistical Sleuth: a Course in Methods of Data Analysis</a>,
 	Brooks / Cole Cengage Learning.</li>
 
@@ -190,13 +199,19 @@
     <pkg>AtelieR</pkg>
     <pkg>BaM</pkg>
     <pkg priority="core">BayesDA</pkg>
+    <pkg>BetaBit</pkg>
     <pkg>Bolstad</pkg>
+    <pkg>car</pkg>
+    <pkg>carData</pkg>
+    <pkg>DALEX</pkg>
     <pkg>distrTeach</pkg>
+    <pkg>effects</pkg>
     <pkg>ElemStatLearn</pkg>
     <pkg priority="core">exams</pkg>
     <pkg>faraway</pkg>
     <pkg>gganimate</pkg>
     <pkg>ggplot2</pkg>
+    <pkg>HH</pkg>
     <pkg>HSAUR3</pkg>
     <pkg>infer</pkg>
     <pkg>ISwR</pkg>
@@ -209,6 +224,7 @@
     <pkg>openintro</pkg>
     <pkg>ProfessR</pkg>
     <pkg priority="core">Rcmdr</pkg>
+    <pkg>regtools</pkg>
     <pkg>shiny</pkg>
     <pkg>Sleuth2</pkg>
     <pkg>Sleuth3</pkg>
