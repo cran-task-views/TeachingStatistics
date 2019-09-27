@@ -139,7 +139,7 @@
 	<a href="https://doi.org/10.1002/9781118593165">Introduction to Bayesian Statistics</a>, Third Edition. John Wiley and Sons, Inc.</li>
 
 	<li><pkg>car</pkg>, <pkg>carData</pkg>, <pkg>effects</pkg>: Fox, J, and Weisberg, S. (2019), <a href="https://uk.sagepub.com/en-gb/eur/an-r-companion-to-applied-regression/book246125">An R Companion to Applied Regression</a>, Springer Verlag, New York.  <a href="https://socialsciences.mcmaster.ca/jfox/Books/Companion/index.html">Further resources</a>. </li>
-	
+
  	<li><pkg>ElemStatLearn</pkg>: Hastie, T., Tibshirani, R. and Friedman, J.
  	(2009). <a href="https://www.springer.com/gb/book/9780387848570"> The Elements
  	 of Statistical Learning: Data Mining, Inference, and Prediction</a>, Second
@@ -178,6 +178,8 @@
  	 <a href="https://www.openintro.org/stat/textbook.php?stat_book=aps">Advanced High School Statistics</a>.</li>
 
 	<li><pkg>regtools</pkg>: Matloff, N. (2017), <a href="https://www.crcpress.com/Statistical-Regression-and-Classification-From-Linear-Models-to-Machine/Matloff/p/book/9781498710916">Statistical Regression and Classification: from Linear Models to Machine Learning</a>, New York: Chapman and Hall/CRC.</li>
+
+	<li><pkg>resampledata</pkg>: Chihara, L. M. and Hesterberg, T. C. (2018), <a href="https://www.wiley.com/en-us/Mathematical+Statistics+with+Resampling+and+R%2C+2nd+Edition-p-9781119416531">Mathematical Statistics with Resampling in R</a>, Second Edition, John Wiley and Sons, Inc. <a href="https://sites.google.com/site/chiharahesterberg/">Further resources</a>. </li>
 	
 	<li><pkg>Sleuth2</pkg> and <pkg>Sleuth3</pkg>: Ramsey, F. and Schafer, D. (2013), <a href="http://www.statisticalsleuth.com/">The Statistical Sleuth: a Course in Methods of Data Analysis</a>,
 	Brooks / Cole Cengage Learning.</li>
@@ -225,6 +227,7 @@
     <pkg>ProfessR</pkg>
     <pkg priority="core">Rcmdr</pkg>
     <pkg>regtools</pkg>
+    <pkg>resampledata</pkg>
     <pkg>shiny</pkg>
     <pkg>Sleuth2</pkg>
     <pkg>Sleuth3</pkg>
