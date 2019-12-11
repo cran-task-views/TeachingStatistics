@@ -108,7 +108,6 @@
   <li><pkg>exams</pkg> provides a framework for the automatic random generation of exams and self-study materials from a pool of exercises composed using either Sweave (.Rnw) or R markdown (.Rmd) formats. R code can be used to generate exercise elements dynamically. Questions can be formatted for use in a variety of e-learning platforms or output as documents, for example a PDF file, for which. Scans of PDF answer sheets can be marked automatically.
   See also the <a href="http://www.R-exams.org">R/exams homepage</a></li>
   <li><pkg>ProfessR</pkg> creates multiple choice exams from a pool of exercises organised in ASCII test files.  Multiple versions of an exam can be created by randomizing the questions and the choices of answers.</li>
-  <li><pkg>RndTexExams</pkg> creates multiple choice exams from a pool of exercises composed in LaTeX format. R code can be used to generate exercise elements dynamically.  Spreadsheets containing students' answers can be marked automatically. </li>
   <li><pkg>TexExamRandomizer</pkg> enables the randomization of questions created using LaTeX's document class for preparing exams. Spreadsheets containing students' answers can be marked automatically.</li>
 
     </ul>
@@ -234,7 +233,6 @@
     <pkg>smovie</pkg>
     <pkg>swirl</pkg>
     <pkg>SMPracticals</pkg>
-    <pkg>RndTexExams</pkg>
     <pkg>TeachBayes</pkg>
     <pkg>TeachingDemos</pkg>
     <pkg>TexExamRandomizer</pkg>
