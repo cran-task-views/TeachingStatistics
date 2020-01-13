@@ -3,7 +3,7 @@
   <name>TeachingStatistics</name>
   <topic>Teaching Statistics</topic>
   <maintainer email="p.northrop@ucl.ac.uk">Paul Northrop</maintainer>
-  <version>2019-09-30</version>
+  <version>2020-01-13</version>
 
   <info>
     <p>This CRAN task view gives information about packages with features
