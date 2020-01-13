@@ -170,6 +170,9 @@
 	Introduction to Linear Regression Analysis</a>, John Wiley and Sons, Inc.
 	</li>
 
+	<li><pkg>msos</pkg>: Marden, J. (2015)
+	<a href=" http://istics.net/stat/Multivariate/"> Multivariate Statistics: Old School</a>, CreateSpace Independent Publishing Platform. <a href="http://istics.net/pdfs/multivariate.pdf">Free PDF version</a>.</li>
+
 	<li><pkg>openintro</pkg>: Three open-source books published by
 	<a href="https://www.openintro.org/"> OpenIntro</a>:
  	 <a href="https://www.openintro.org/stat/textbook.php?stat_book=os"> OpenIntro Statistics</a>,
@@ -221,6 +224,7 @@
     <pkg priority="core">MASS</pkg>
     <pkg>moderndive</pkg>
     <pkg>MPV</pkg>
+    <pkg>msos</pkg>
     <pkg priority="core">mosaic</pkg>
     <pkg>openintro</pkg>
     <pkg>ProfessR</pkg>
