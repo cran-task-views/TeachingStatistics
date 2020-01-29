@@ -3,7 +3,7 @@
   <name>TeachingStatistics</name>
   <topic>Teaching Statistics</topic>
   <maintainer email="p.northrop@ucl.ac.uk">Paul Northrop</maintainer>
-  <version>2020-01-13</version>
+  <version>2020-01-30</version>
 
   <info>
     <p>This CRAN task view gives information about packages with features
@@ -139,11 +139,6 @@
 
 	<li><pkg>car</pkg>, <pkg>carData</pkg>, <pkg>effects</pkg>: Fox, J, and Weisberg, S. (2019), <a href="https://uk.sagepub.com/en-gb/eur/an-r-companion-to-applied-regression/book246125">An R Companion to Applied Regression</a>, Springer Verlag, New York.  <a href="https://socialsciences.mcmaster.ca/jfox/Books/Companion/index.html">Further resources</a>. </li>
 
- 	<li><pkg>ElemStatLearn</pkg>: Hastie, T., Tibshirani, R. and Friedman, J.
- 	(2009). <a href="https://www.springer.com/gb/book/9780387848570"> The Elements
- 	 of Statistical Learning: Data Mining, Inference, and Prediction</a>, Second
-	 Edition, Springer, New York.  <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Further resources</a>.</li>
-
  	<li><pkg>faraway</pkg>: Three books by Julian Faraway:
  	 <a href="https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf"> Practical      Regression and ANOVA in R</a> (CRAN document),
  	 <a href="https://www.crcpress.com/Linear-Models-with-R-Second-Edition/Faraway/p/book/9781439887332"> Linear Models with R</a> (2014), CRC Press,
@@ -210,7 +205,6 @@
     <pkg>DALEX</pkg>
     <pkg>distrTeach</pkg>
     <pkg>effects</pkg>
-    <pkg>ElemStatLearn</pkg>
     <pkg priority="core">exams</pkg>
     <pkg>faraway</pkg>
     <pkg>gganimate</pkg>
