@@ -3,7 +3,7 @@
   <name>TeachingStatistics</name>
   <topic>Teaching Statistics</topic>
   <maintainer email="p.northrop@ucl.ac.uk">Paul Northrop</maintainer>
-  <version>2020-01-30</version>
+  <version>2020-03-09</version>
 
   <info>
     <p>This CRAN task view gives information about packages with features
@@ -65,7 +65,6 @@
   <li><pkg>gganimate</pkg> animates plots produced by <pkg>ggplot2</pkg>.
     It can be used to render the plots into an animation, such as a GIF
     or MP4 video .</li>
-  <li><pkg>TeachBayes</pkg> provides visualizations to illustrate the basic ideas of Bayesian inference, the roles of prior and posterior distributions in particular.  Key teaching examples are used, namely inference for: a mean, a proportion, two proportions and which of several multi-faced dice have been thrown in an experiment.</li>
   <li><pkg>smovie</pkg> provides movies to illustrate concepts in Statistics.
     Topics covered are: probability distributions; sampling
     distributions of the mean (cf. central limit theorem), the maximum
@@ -231,7 +230,6 @@
     <pkg>smovie</pkg>
     <pkg>swirl</pkg>
     <pkg>SMPracticals</pkg>
-    <pkg>TeachBayes</pkg>
     <pkg>TeachingDemos</pkg>
     <pkg>TexExamRandomizer</pkg>
     <pkg>vcd</pkg>
