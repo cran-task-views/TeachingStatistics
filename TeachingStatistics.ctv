@@ -3,7 +3,7 @@
   <name>TeachingStatistics</name>
   <topic>Teaching Statistics</topic>
   <maintainer email="p.northrop@ucl.ac.uk">Paul Northrop</maintainer>
-  <version>2020-03-09</version>
+  <version>2020-04-10</version>
 
   <info>
     <p>This CRAN task view gives information about packages with features
@@ -147,7 +147,7 @@
 	<a href="https://doi.org/10.1007/978-1-4939-2122-5">Statistical Analysis and Data Display: An Intermediate Course with Examples in R</a>, Second edition. Springer-Verlag, New York.</li>
 	
 	<li><pkg>HSAUR3</pkg>: Hothorn, T. and Everitt, B. S. (2014),
-	<a href="https://www.crcpress.com/A-Handbook-of-Statistical-Analyses-using-R-Third-Edition/Hothorn-Everitt/p/book/9781482204582">A Handbook of Statistical Analyses using R</a>, Third edition. New York: Chapman and Hall/CRC.</li>
+	<a href="https://www.crcpress.com/A-Handbook-of-Statistical-Analyses-using-R-Third-Edition/Hothorn-Everitt/p/book/9781482204582">A Handbook of Statistical Analyses using R</a>, Third Edition. New York: Chapman and Hall/CRC.</li>
 
 	<li><pkg>ISwR</pkg>:  Dalgaard, P. (2008),
 	<a href="https://doi.org/10.1007/978-0-387-79054-1">Introductory Statistics with R</a>,	Second Edition, Springer Verlag, New York.</li>
@@ -185,6 +185,8 @@
 	Cambridge University Press.  <a href="http://statwww.epfl.ch/davison/SM/">Further resources</a>.</li>
 
 	<li><pkg>vcd</pkg>: Friendly, M. and Meyer, D. (2015), <a href="https://www.crcpress.com/Discrete-Data-Analysis-with-R-Visualization-and-Modeling-Techniques-for/Friendly-Meyer/p/book/9781498725835">Discrete Data Analysis with R</a>, New York: Chapman and Hall/CRC.  <a href="http://ddar.datavis.ca/">Further resources</a>.</li>
+
+	<li><pkg>wooldridge</pkg>: Wooldridge, J. M. (2016), <a href="https://www.cengage.co.uk/books/9781305270107/">Introductory Econometrics: A Modern Approach</a>, Sixth edition, CENGAGE Learning Custom Publishing.</li>
 
     </ul>
 
@@ -234,6 +236,7 @@
     <pkg>TexExamRandomizer</pkg>
     <pkg>vcd</pkg>
     <pkg>visualize</pkg>
+    <pkg>wooldridge</pkg>
     <pkg>xplain</pkg>
   </packagelist>
 
