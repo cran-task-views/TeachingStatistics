@@ -3,7 +3,7 @@
   <name>TeachingStatistics</name>
   <topic>Teaching Statistics</topic>
   <maintainer email="p.northrop@ucl.ac.uk">Paul Northrop</maintainer>
-  <version>2020-04-10</version>
+  <version>2020-06-05</version>
 
   <info>
     <p>This CRAN task view gives information about packages with features
@@ -90,11 +90,6 @@
     key statistical concepts.  Topics covered include probability areas on
     density functions, binomial, normal, t and F distributions, p-values,
     QQ-plots and simulation of time series with different behaviours. </li>
-  <li><pkg>AtelieR</pkg> uses a GTK GUI to help teach some key
-    statistical concepts.  Includes the sampling distributions of the mean
-    (cf. central limit theorem) and variance, probability calculator for
-    common distributions, Bayesian inference for proportions, multinomial
-    counts, means and variances.</li>
   <li><pkg>BetaBit</pkg> provides games for students to play in the R console, including one that involves data-cleaning and regression modelling.  See the <a href="http://betabit.wiki/"> BetaBit home page</a>.</li>
   <li><pkg>DALEX</pkg> provides functions to explore and understand predictive models. The <a href="https://github.com/ModelOriented/DALEX"> DALEX GitHub page</a> includes two teaching-related showcases.</li>
 
@@ -196,7 +191,6 @@
     <pkg>AER</pkg>
     <pkg priority="core">animation</pkg>
     <pkg>ACSWR</pkg>
-    <pkg>AtelieR</pkg>
     <pkg>BaM</pkg>
     <pkg priority="core">BayesDA</pkg>
     <pkg>BetaBit</pkg>
