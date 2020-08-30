@@ -3,7 +3,7 @@
   <name>TeachingStatistics</name>
   <topic>Teaching Statistics</topic>
   <maintainer email="p.northrop@ucl.ac.uk">Paul Northrop</maintainer>
-  <version>2020-06-05</version>
+  <version>2020-08-30</version>
 
   <info>
     <p>This CRAN task view gives information about packages with features
@@ -116,8 +116,11 @@
     possible and, in some cases, a link to further resources.</p>
 
     <ul>
-	<li><pkg>AER</pkg>: Kleiber, C., Zeileis, A.  (2008),
+	<li><pkg>AER</pkg>: Kleiber, C. and Zeileis, A.  (2008),
 	<a href="https://doi.org/10.1007/978-0-387-77318-6">Applied Econometrics with R</a>, Springer Verlag, New York.  <a href="https://eeecon.uibk.ac.at/~zeileis/teaching/AER/">Further resources</a>. </li>
+
+	<li><pkg>arm</pkg>: Gelman, A. and Hill, J. (2007),
+	<a href="https://doi.org/10.1017/CBO9780511790942">Data Analysis Using Regression and Multilevel//Hierarchical Models</a>, Cambridge University Press.  <a href="http://www.stat.columbia.edu/~gelman/arm/">Further resources</a>. </li>
 
 	<li><pkg>ACSWR</pkg>: Tattar, P.N., Suresh, R., and Manjunath, B.G. (2016),
 	<a href="https://doi.org/10.1002/9781119152743">A Course in Statistics With R</a>, John Wiley and Sons, Inc.</li>
@@ -189,6 +192,7 @@
 
   <packagelist>
     <pkg>AER</pkg>
+    <pkg>arm</pkg>
     <pkg priority="core">animation</pkg>
     <pkg>ACSWR</pkg>
     <pkg>BaM</pkg>
