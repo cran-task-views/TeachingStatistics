@@ -3,7 +3,7 @@
   <name>TeachingStatistics</name>
   <topic>Teaching Statistics</topic>
   <maintainer email="p.northrop@ucl.ac.uk">Paul Northrop</maintainer>
-  <version>2020-09-19</version>
+  <version>2020-11-22</version>
 
   <info>
     <p>This CRAN task view gives information about packages with features
@@ -127,9 +127,6 @@
 	<li><pkg>ACSWR</pkg>: Tattar, P.N., Suresh, R., and Manjunath, B.G. (2016),
 	<a href="https://doi.org/10.1002/9781119152743">A Course in Statistics With R</a>, John Wiley and Sons, Inc.</li>
 
-	<li><pkg>BaM</pkg>: Gill, J. (2014),
-	<a href="https://www.crcpress.com/Bayesian-Methods-A-Social-and-Behavioral-Sciences-Approach-Third-Edition/Gill/p/book/9781439862483">Bayesian Methods: A Social and Behavioral Sciences Approach</a>, New York: Chapman and Hall/CRC.</li>
-
 	<li><pkg>BayesDA</pkg>: Gelman, A., Carlin, J., Stern, H., Dunson, D.,
 	Vehtari, A., Rubin, D. (2013), 	<a href="https://www.crcpress.com/Bayesian-Data-Analysis-Third-Edition/Gelman-Carlin-Stern-Dunson-Vehtari-Rubin/p/book/9781439840955">Bayesian Data Analysis</a>, Third Edition. New York: Chapman and Hall/CRC.  <a href="http://www.stat.columbia.edu/~gelman/book/">Further resources</a>.</li>
 
@@ -197,7 +194,6 @@
     <pkg>arm</pkg>
     <pkg priority="core">animation</pkg>
     <pkg>ACSWR</pkg>
-    <pkg>BaM</pkg>
     <pkg priority="core">BayesDA</pkg>
     <pkg>BetaBit</pkg>
     <pkg>bivariate</pkg>
