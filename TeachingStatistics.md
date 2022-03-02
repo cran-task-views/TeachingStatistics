@@ -52,7 +52,7 @@ linked above.
     modelling. Key aspects are the provision of functions that enable
     beginners easily to perform tasks that would otherwise be difficult
     and the use of simulation to illustrate randomization-based
-    inference. See the [Project MOSAIC homepage](http://mosaic-web.org)
+    inference. See the [Project MOSAIC homepage](http://www.mosaic-web.org)
     for more information.
 -   `r pkg("xplain")` can be used to provide bespoke
     interactive interpretations of the output from statistics functions.
