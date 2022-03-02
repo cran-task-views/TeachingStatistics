@@ -59,7 +59,7 @@ linked above.
     This information needs to be provided by the instructor in XML
     format and may contain R code, to tailor the explanation to the
     specific results. See the [xplain
-    website](http://www.zuckarelli.de/xplain/index.html) for a tutorial
+    website](https://www.zuckarelli.de/xplain/index.html) for a tutorial
     and cheatsheet.
 -   `r pkg("animation", priority = "core")` provides
     functions to produce animations relating to a wide range of topics
