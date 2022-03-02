@@ -200,7 +200,7 @@ possible and, in some cases, a link to further resources.
     `r pkg("infer")`.
 -   `r pkg("MPV")`: Montgomery, D.C., Peck, E. A. and
     Vining, G. (2012), [Introduction to Linear Regression
-    Analysis](https://www.wiley.com/en-gb/Introduction+to+Linear+Regression+Analysis%2C+5th+Edition-p-9781118627365)
+    Analysis](https://www.wiley.com/en-gb/Introduction+to+Linear+Regression+Analysis%2C+6th+Edition-p-00029190)
     , John Wiley and Sons, Inc.
 -   `r pkg("msos")`: Marden, J. (2015) [Multivariate
     Statistics: Old School](%20http://istics.net/stat/Multivariate/) ,
