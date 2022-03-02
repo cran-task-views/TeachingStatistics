@@ -145,7 +145,7 @@ possible and, in some cases, a link to further resources.
     York. [Further
     resources](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/) .
 -   `r pkg("arm")`: Gelman, A. and Hill, J. (2007), [Data
-    Analysis Using Regression and Multilevel//Hierarchical
+    Analysis Using Regression and Multilevel/Hierarchical
     Models](https://doi.org/10.1017/CBO9780511790942) , Cambridge
     University Press. [Further
     resources](http://www.stat.columbia.edu/~gelman/arm/) .
