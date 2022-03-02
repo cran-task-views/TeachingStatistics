@@ -44,8 +44,7 @@ linked above.
     topics are available, under the general headings of Exploratory Data
     Analysis, Statistical Inference and Regression Models. Teachers can
     author and share their own swirl courses using the
-    `r github("swirldev/swirlify")` package (currently on
-    Github only). See also the [swirl home
+    `r pkg("swirlify")` package. See also the [swirl home
     page.](https://swirlstats.com/)
 -   `r pkg("mosaic", priority = "core")` contains a wide
     range of tools to assist in teaching of basic, and more advanced
