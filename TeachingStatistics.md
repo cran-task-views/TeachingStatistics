@@ -206,14 +206,8 @@ possible and, in some cases, a link to further resources.
     Statistics: Old School](%20http://istics.net/stat/Multivariate/) ,
     CreateSpace Independent Publishing Platform. [Free PDF
     version](http://istics.net/pdfs/multivariate.pdf) .
--   `r pkg("openintro")`: Three open-source books published
-    by [OpenIntro](https://www.openintro.org/) : [OpenIntro
-    Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os)
-    , [Introductory Statistics with Randomization and
-    Simulation](https://www.openintro.org/stat/textbook.php?stat_book=isrs)
-    , [Advanced High School
-    Statistics](https://www.openintro.org/stat/textbook.php?stat_book=aps)
-    .
+-   `r pkg("openintro")`: Open-source textbooks and resources for introductory statistics published
+    by [OpenIntro](https://www.openintro.org/).
 -   `r pkg("regtools")`: Matloff, N. (2017), [Statistical
     Regression and Classification: from Linear Models to Machine
     Learning](https://www.crcpress.com/Statistical-Regression-and-Classification-From-Linear-Models-to-Machine/Matloff/p/book/9781498710916)
