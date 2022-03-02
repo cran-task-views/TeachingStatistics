@@ -39,7 +39,7 @@ linked above.
 -   `r pkg("swirl")` uses the R console to provide an
     interactive learning environment for students to learn Statistics.
     Students select courses to download from the
-    `r github("swirldev/swirl\_courses")` GitHub page and
+    `r github("swirldev/swirl_courses")` GitHub page and
     are provided with immediate feedback as they work. A variety of
     topics are available, under the general headings of Exploratory Data
     Analysis, Statistical Inference and Regression Models. Teachers can
