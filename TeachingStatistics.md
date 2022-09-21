@@ -3,7 +3,7 @@ name: TeachingStatistics
 topic: Teaching Statistics
 maintainer: Paul Northrop
 email: p.northrop@ucl.ac.uk
-version: 2021-12-29
+version: 2022-09-21
 source: https://github.com/cran-task-views/TeachingStatistics/
 ---
 
@@ -95,12 +95,6 @@ linked above.
     Central Limit Theorem (CLT) and the Law of Large Numbers (LLN). The
     effects on the CLT plots of changing inputs can be shown using a
     Tcl/Tk-based widget.
--   `r pkg("learnstats")` uses a console-based menus and
-    `r pkg("shiny")` apps to provide interactive plots that
-    illustrate key statistical concepts. Topics covered include
-    probability areas on density functions, binomial, normal, t and F
-    distributions, p-values, QQ-plots and simulation of time series with
-    different behaviours.
 -   `r pkg("BetaBit")` provides games for students to play
     in the R console, including one that involves data-cleaning and
     regression modelling. See the [BetaBit home
