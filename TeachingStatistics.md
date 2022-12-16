@@ -3,7 +3,7 @@ name: TeachingStatistics
 topic: Teaching Statistics
 maintainer: Paul Northrop
 email: p.northrop@ucl.ac.uk
-version: 2022-09-21
+version: 2022-12-16
 source: https://github.com/cran-task-views/TeachingStatistics/
 ---
 
@@ -184,6 +184,9 @@ possible and, in some cases, a link to further resources.
     [Statistical Analysis and Data Display: An Intermediate Course with
     Examples in R](https://doi.org/10.1007/978-1-4939-2122-5) , Second
     edition. Springer-Verlag, New York.
+-   `r pkg("HKRbook")`: H&auml;rdle, W. K., Klinke, S. and R&ouml;nz, B. (2015), 
+    [Introduction to Statistics](https://doi.org/10.1007%2F978-3-319-17704-5). 
+    Springer Verlag, New York. [Further resources](https://extras.springer.com/?query=978-3-319-17703-8).    
 -   `r pkg("HSAUR3")`: Hothorn, T. and Everitt, B. S.
     (2014), [A Handbook of Statistical Analyses using
     R](https://www.crcpress.com/A-Handbook-of-Statistical-Analyses-using-R-Third-Edition/Hothorn-Everitt/p/book/9781482204582)
