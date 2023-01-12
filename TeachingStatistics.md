@@ -85,14 +85,16 @@ linked above.
     illustrate the essential ideas of Bayesian inference, such as the
     roles of the prior, likelihood and posterior; posterior predictive
     checking and predictive inference, and several example datasets.
--   `r pkg("shinybrms")` provides a shiny app for fitting Bayesian 
-     generalized (non-)linear multivariate multilevel regression models 
-     [brms](https://paul-buerkner.github.io/brms/) package. Help text 
-     leads the user through the steps of uploading a dataset, specifying 
+-   `r pkg("shinybrms")` provides a shiny app for fitting various types of 
+     Bayesian regression models using the 
+     [brms](https://paul-buerkner.github.io/brms/) package. Help text leads 
+     the user through the steps of uploading a dataset, specifying 
      a likelihood, setting a prior distribution and making inferences about 
      the posterior distribution. See the package 
      [README](https://cran.r-project.org/web/packages/shinybrms/readme/README.html) 
-     file and the [Getting started](https://fweber144.github.io/shinybrms/articles/shinybrms.html) page. 
+     file and the 
+     [Getting started](https://fweber144.github.io/shinybrms/articles/shinybrms.html) 
+     page. 
 -   `r pkg("TeachingDemos")` Provides a wide range of static
     and interactive plots to demonstrate statistical concepts,
     including: coin tossing and dice rolling; confidence intervals;
