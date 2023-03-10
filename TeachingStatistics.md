@@ -3,7 +3,7 @@ name: TeachingStatistics
 topic: Teaching Statistics
 maintainer: Paul Northrop
 email: p.northrop@ucl.ac.uk
-version: 2022-12-16
+version: 2023-03-10
 source: https://github.com/cran-task-views/TeachingStatistics/
 ---
 
@@ -101,7 +101,7 @@ linked above.
     various aspects of hypothesis testing; the central limit theorem;
     maximum likelihood estimation; scatterplot smoothing; histograms;
     correlation and simple linear regression; Box-Cox transformation.
--   `r pkg("distrTeach")` provides plots to illustate the
+-   `r pkg("distrTeach")` provides plots to illustrate the
     Central Limit Theorem (CLT) and the Law of Large Numbers (LLN). The
     effects on the CLT plots of changing inputs can be shown using a
     Tcl/Tk-based widget.
@@ -113,6 +113,10 @@ linked above.
     understand predictive models. The [DALEX GitHub
     page](https://github.com/ModelOriented/DALEX) includes two
     teaching-related showcases.
+-   `r pkg("agricolae")` provides functionality assist the teaching of the 
+    design and analysis of statistical experiments, with an emphasis on 
+    agricultural field experiments. Designs constructed by `r pkg("agricolae")` 
+    can be visualised using `r pkg("agricolaeplotr")`.
 
 ### Examination
 
@@ -233,7 +237,7 @@ possible and, in some cases, a link to further resources.
     [Statistical Models](https://doi.org/10.1017/CBO9780511815850) ,
     Cambridge University Press. [Further
     resources](http://statwww.epfl.ch/davison/SM/) .
--   `r pkg("vcd")`: Friendly, M. and Meyer, D. (2015),
+-   `r pkg("vcd")`, `r pkg("vcdExtra")`: Friendly, M. and Meyer, D. (2015),
     [Discrete Data Analysis with
     R](https://www.crcpress.com/Discrete-Data-Analysis-with-R-Visualization-and-Modeling-Techniques-for/Friendly-Meyer/p/book/9781498725835)
     , New York: Chapman and Hall/CRC. [Further
