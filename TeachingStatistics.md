@@ -3,7 +3,7 @@ name: TeachingStatistics
 topic: Teaching Statistics
 maintainer: Paul Northrop
 email: p.northrop@ucl.ac.uk
-version: 2023-03-10
+version: 2023-08-22
 source: https://github.com/cran-task-views/TeachingStatistics/
 ---
 
@@ -147,26 +147,28 @@ inclusion is that package is likely to be of direct use in the teaching
 of statistical methods. Official publisher links are provided where
 possible and, in some cases, a link to further resources.
 
--   `r pkg("AER")`: Kleiber, C. and Zeileis, A. (2008),
-    [Applied Econometrics with
-    R](https://doi.org/10.1007/978-0-387-77318-6) , Springer Verlag, New
-    York. [Further
-    resources](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/) .
--   `r pkg("arm")`: Gelman, A. and Hill, J. (2007), [Data
-    Analysis Using Regression and Multilevel/Hierarchical
-    Models](https://doi.org/10.1017/CBO9780511790942) , Cambridge
-    University Press. [Further
-    resources](http://www.stat.columbia.edu/~gelman/arm/) .
 -   `r pkg("ACSWR")`: Tattar, P.N., Suresh, R., and
     Manjunath, B.G. (2016), [A Course in Statistics With
     R](https://doi.org/10.1002/9781119152743) , John Wiley and Sons,
     Inc.
+-   `r pkg("AER")`: Kleiber, C. and Zeileis, A. (2008),
+    [Applied Econometrics with
+    R](https://doi.org/10.1007/978-0-387-77318-6) , Springer Verlag, New
+    York. [Further
+    resources](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/).
+-   `r pkg("arm")`: Gelman, A. and Hill, J. (2007), [Data
+    Analysis Using Regression and Multilevel/Hierarchical
+    Models](https://doi.org/10.1017/CBO9780511790942) , Cambridge
+    University Press. [Further
+    resources](http://www.stat.columbia.edu/~gelman/arm/).
+-   `r pkg("asbio")`: Aho, K. A. (2014), [Foundational and applied statistics for biologists using R](https://www.routledge.com/Foundational-and-Applied-Statistics-for-Biologists-Using-R/Aho/p/book/9781032477411), Routledge. [Further
+    resources](https://www2.cose.isu.edu/~ahoken/book/).
 -   `r pkg("BayesDA", priority = "core")`: Gelman, A.,
     Carlin, J., Stern, H., Dunson, D., Vehtari, A., Rubin, D. (2013),
     [Bayesian Data
     Analysis](https://www.crcpress.com/Bayesian-Data-Analysis-Third-Edition/Gelman-Carlin-Stern-Dunson-Vehtari-Rubin/p/book/9781439840955)
     , Third Edition. New York: Chapman and Hall/CRC. [Further
-    resources](http://www.stat.columbia.edu/~gelman/book/) .
+    resources](http://www.stat.columbia.edu/~gelman/book/).
 -   `r pkg("Bolstad")`: Bolstad, W. M. and Curran, J. M.
     (2016), [Introduction to Bayesian
     Statistics](https://doi.org/10.1002/9781118593165) , Third Edition.
@@ -204,7 +206,7 @@ possible and, in some cases, a link to further resources.
     Ripley, B. D. (2002) [Modern Applied Statistics with
     S](https://www.springer.com/gb/book/9780387954578) , Fourth Edition,
     Springer, New York. [Further
-    resources](http://www.stats.ox.ac.uk/pub/MASS4) .
+    resources](http://www.stats.ox.ac.uk/pub/MASS4).
 -   `r pkg("moderndive")`: Ismay, C. and Kim, A. Y. (2019)
     [ModernDive: Statistical Inference via Data
     Science](https://moderndive.com/) . See also
@@ -216,7 +218,7 @@ possible and, in some cases, a link to further resources.
 -   `r pkg("msos")`: Marden, J. (2015) [Multivariate
     Statistics: Old School](%20http://istics.net/stat/Multivariate/) ,
     CreateSpace Independent Publishing Platform. [Free PDF
-    version](http://istics.net/pdfs/multivariate.pdf) .
+    version](http://istics.net/pdfs/multivariate.pdf).
 -   `r pkg("openintro")`: Open-source textbooks and resources for introductory statistics published
     by [OpenIntro](https://www.openintro.org/).
 -   `r pkg("regtools")`: Matloff, N. (2017), [Statistical
@@ -228,7 +230,7 @@ possible and, in some cases, a link to further resources.
     in
     R](https://www.wiley.com/en-us/Mathematical+Statistics+with+Resampling+and+R%2C+2nd+Edition-p-9781119416531)
     , Second Edition, John Wiley and Sons, Inc. [Further
-    resources](https://sites.google.com/site/chiharahesterberg/) .
+    resources](https://sites.google.com/site/chiharahesterberg/).
 -   `r pkg("Sleuth2")` and `r pkg("Sleuth3")`:
     Ramsey, F. and Schafer, D. (2013), [The Statistical Sleuth: a Course
     in Methods of Data Analysis](http://www.statisticalsleuth.com/) ,
@@ -236,12 +238,12 @@ possible and, in some cases, a link to further resources.
 -   `r pkg("SMPracticals")`: Davison, A. C. (2003),
     [Statistical Models](https://doi.org/10.1017/CBO9780511815850) ,
     Cambridge University Press. [Further
-    resources](http://statwww.epfl.ch/davison/SM/) .
+    resources](http://statwww.epfl.ch/davison/SM/).
 -   `r pkg("vcd")`, `r pkg("vcdExtra")`: Friendly, M. and Meyer, D. (2015),
     [Discrete Data Analysis with
     R](https://www.crcpress.com/Discrete-Data-Analysis-with-R-Visualization-and-Modeling-Techniques-for/Friendly-Meyer/p/book/9781498725835)
     , New York: Chapman and Hall/CRC. [Further
-    resources](http://ddar.datavis.ca/) .
+    resources](http://ddar.datavis.ca/).
 -   `r pkg("wooldridge")`: Wooldridge, J. M. (2016),
     [Introductory Econometrics: A Modern
     Approach](https://www.cengage.uk/shop/isbn/9781337558860) , Seventh
