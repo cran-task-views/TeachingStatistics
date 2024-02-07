@@ -3,7 +3,7 @@ name: TeachingStatistics
 topic: Teaching Statistics
 maintainer: Paul Northrop
 email: p.northrop@ucl.ac.uk
-version: 2023-09-09
+version: 2024-02-07
 source: https://github.com/cran-task-views/TeachingStatistics/
 ---
 
@@ -180,6 +180,7 @@ possible and, in some cases, a link to further resources.
     , Springer Verlag, New York. [Further
     resources](https://socialsciences.mcmaster.ca/jfox/Books/Companion/index.html)
     .
+-   `r pkg("CatDataAnalysis")`: Agresti, A. (2013), [Categorical Data Analysis](https://www.wiley.com/en-gb/Categorical+Data+Analysis%2C+3rd+Edition-p-9780470463635), Third Edition, John Wiley and Sons, Inc.
 -   `r pkg("faraway")`: Three books by Julian Faraway:
     [Practical Regression and ANOVA in
     R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (CRAN
