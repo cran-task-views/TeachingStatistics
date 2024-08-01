@@ -3,7 +3,7 @@ name: TeachingStatistics
 topic: Teaching Statistics
 maintainer: Paul Northrop
 email: p.northrop@ucl.ac.uk
-version: 2024-02-07
+version: 2024-08-01
 source: https://github.com/cran-task-views/TeachingStatistics/
 ---
 
@@ -133,6 +133,12 @@ linked above.
     pool of exercises organised in ASCII test files. Multiple versions
     of an exam can be created by randomizing the questions and the
     choices of answers.
+-   `r pkg("rqti")` creates exercises and exams in adherence to the 
+    QTI v2.1 standard directly from R. Users have the flexibility to 
+    render the exercises either locally (using `qti.js`) or integrate them 
+    seamlessly into the OPAL learning management system. Exercises can be 
+    created as R Markdown files or as `rqti` S4 classes. See also the 
+    [rqti homepage](https://shevandrin.github.io/rqti/).
 -   `r pkg("TexExamRandomizer")` enables the randomization
     of questions created using LaTeX's document class for preparing
     exams. Spreadsheets containing students' answers can be marked
