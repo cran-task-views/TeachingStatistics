@@ -117,7 +117,12 @@ linked above.
     design and analysis of statistical experiments, with an emphasis on 
     agricultural field experiments. Designs constructed by `r pkg("agricolae")` 
     can be visualised using `r pkg("agricolaeplotr")`.
-
+-   `r pkg("LearningRlab")` is designed to help teach basic statistics to 
+    secondary and baccalaureate students. It has functions that provide 
+    step-by-step explanations of statistical calculations and functions that
+    prompt the student to perform their own calculations. See the package 
+    vignette for examples.
+    
 ### Examination
 
 -   `r pkg("exams", priority = "core")` provides a framework
