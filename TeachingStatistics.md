@@ -154,7 +154,7 @@ linked above.
 The following packages are associated with textbooks that are of
 potential interest to a general statistical audience, rather than being
 specific to a particular application area. The general principle for
-inclusion is that package is likely to be of direct use in the teaching
+inclusion is that the package is likely to be of direct use in the teaching
 of statistical methods. Official publisher links are provided where
 possible and, in some cases, a link to further resources.
 
