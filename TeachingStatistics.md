@@ -3,7 +3,7 @@ name: TeachingStatistics
 topic: Teaching Statistics
 maintainer: Paul Northrop
 email: p.northrop@ucl.ac.uk
-version: 2024-08-01
+version: 2025-01-16
 source: https://github.com/cran-task-views/TeachingStatistics/
 ---
 
@@ -54,6 +54,10 @@ linked above.
     and the use of simulation to illustrate randomization-based
     inference. See the [Project MOSAIC homepage](http://www.mosaic-web.org)
     for more information.
+-   `r pkg("learnr")` makes it easy to turn any R Markdown document into an 
+    interactive tutorial, containing narrative, figures, equations, exercises, 
+    videos and/or interactive shiny components. See the 
+    [learnr homepage](https://rstudio.github.io/learnr/) for more information.
 -   `r pkg("xplain")` can be used to provide bespoke
     interactive interpretations of the output from statistics functions.
     This information needs to be provided by the instructor in XML
@@ -275,3 +279,4 @@ possible and, in some cases, a link to further resources.
 -   [Project MOSAIC homepage](http://mosaic-web.org/)
 -   [The R Commander homepage](https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/)
 -   [The swirl home page](https://swirlstats.com/)
+-   [Applied Epi](https://appliedepi.org/), including the [The Epidemiologist R Handbook](https://appliedepi.org/epirhandbook/)
