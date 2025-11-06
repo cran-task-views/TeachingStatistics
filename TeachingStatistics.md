@@ -3,7 +3,7 @@ name: TeachingStatistics
 topic: Teaching Statistics
 maintainer: Paul Northrop
 email: p.northrop@ucl.ac.uk
-version: 2025-05-30
+version: 2025-11-06
 source: https://github.com/cran-task-views/TeachingStatistics/
 ---
 
@@ -226,6 +226,8 @@ possible and, in some cases, a link to further resources.
 -   `r pkg("ISwR")`: Dalgaard, P. (2008), [Introductory
     Statistics with R](https://doi.org/10.1007/978-0-387-79054-1) ,
     Second Edition, Springer Verlag, New York.
+-   `r pkg("liver")`: Mohammadi, R. (2025), 
+    [Data Science Foundations and Machine Learning with R: From Data to Decisions](https://book-data-science-r.netlify.app/).
 -   `r pkg("MASS", priority = "core")`: Venables, W. N. and
     Ripley, B. D. (2002) [Modern Applied Statistics with
     S](https://www.springer.com/gb/book/9780387954578) , Fourth Edition,
