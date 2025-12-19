@@ -52,8 +52,8 @@ linked above.
     modelling. Key aspects are the provision of functions that enable
     beginners easily to perform tasks that would otherwise be difficult
     and the use of simulation to illustrate randomization-based
-    inference. See the [Project MOSAIC homepage](http://www.mosaic-web.org)
-    for more information.
+    inference. See also `r pkg("mosaicCalc")` and the 
+    [Project MOSAIC homepage](http://www.mosaic-web.org).
 -   `r pkg("learnr")` makes it easy to turn any R Markdown document into an 
     interactive tutorial, containing narrative, figures, equations, exercises, 
     videos and/or interactive shiny components. See the 
@@ -140,9 +140,11 @@ linked above.
     (.Rnw) or R markdown (.Rmd) formats. R code can be used to generate
     exercise elements dynamically. Questions can be formatted for use in
     a variety of e-learning platforms or output as documents, for
-    example a PDF file, for which. Scans of PDF answer sheets can be
+    example a PDF file. Scans of PDF answer sheets can be
     marked automatically. See also the [R/exams
     homepage](http://www.R-exams.org)
+-   `r pkg("exams.forge")` further facilitates the creation of exercises based 
+    on the `r pkg("exams")` package. See also the `r pkg("exams.forge.data")` package.
 -   `r pkg("ProfessR")` creates multiple choice exams from a
     pool of exercises organised in ASCII test files. Multiple versions
     of an exam can be created by randomizing the questions and the
@@ -167,13 +169,16 @@ inclusion is that the package is likely to be of direct use in the teaching
 of statistical methods. Official publisher links are provided where
 possible and, in some cases, a link to further resources.
 
+-   `r pkg("abd")`: Whitlock, M. C. and Schluter, D. (2020),
+    [The Analysis of Biological Data](https://www.macmillanlearning.com/ed/uk/product/The-Analysis-of-Biological-Data--3rd-edition/p/1319325343), 
+    Macmillan Learning. [Further resources](https://whitlockschluter3e.zoology.ubc.ca/).
 -   `r pkg("ACSWR")`: Tattar, P.N., Suresh, R., and
     Manjunath, B.G. (2016), [A Course in Statistics With
     R](https://doi.org/10.1002/9781119152743) , John Wiley and Sons,
     Inc.
 -   `r pkg("AER")`: Kleiber, C. and Zeileis, A. (2008),
     [Applied Econometrics with
-    R](https://doi.org/10.1007/978-0-387-77318-6) , Springer Verlag, New
+    R](https://doi.org/10.1007/978-0-387-77318-6), Springer Verlag, New
     York. [Further
     resources](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/).
 -   `r pkg("arm")`: Gelman, A. and Hill, J. (2007), [Data
@@ -228,6 +233,8 @@ possible and, in some cases, a link to further resources.
     Second Edition, Springer Verlag, New York.
 -   `r pkg("liver")`: Mohammadi, R. (2025), 
     [Data Science Foundations and Machine Learning with R: From Data to Decisions](https://book-data-science-r.netlify.app/).
+-   `r pkg("LSTbook")`: Kaplan, D. (2024), 
+    [Lessons in Statistical Thinking](https://dtkaplan.github.io/Lessons-in-statistical-thinking/)
 -   `r pkg("MASS", priority = "core")`: Venables, W. N. and
     Ripley, B. D. (2002) [Modern Applied Statistics with
     S](https://www.springer.com/gb/book/9780387954578) , Fourth Edition,
