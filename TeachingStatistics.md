@@ -3,7 +3,7 @@ name: TeachingStatistics
 topic: Teaching Statistics
 maintainer: Paul Northrop
 email: p.northrop@ucl.ac.uk
-version: 2025-11-06
+version: 2025-12-19
 source: https://github.com/cran-task-views/TeachingStatistics/
 ---
 
