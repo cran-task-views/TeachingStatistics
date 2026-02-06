@@ -3,7 +3,7 @@ name: TeachingStatistics
 topic: Teaching Statistics
 maintainer: Paul Northrop
 email: p.northrop@ucl.ac.uk
-version: 2025-12-19
+version: 2026-02-06
 source: https://github.com/cran-task-views/TeachingStatistics/
 ---
 
@@ -126,10 +126,6 @@ linked above.
     step-by-step explanations of statistical calculations and functions that
     prompt the student to perform their own calculations. See the package 
     vignette for examples.
--   `r pkg("dsld")` motivates statistics learners by posing and solving real-life
-    statistical problems involving discrimination. It includes the Quarto textbook
-    [Data Science Looks at Discrimination](https://htmlpreview.github.io/https://github.com/matloff/dsldBook/blob/main/_book/index.html)
-    as a tutorial on the statistical concepts.
 -   `r pkg("visStatistics")` selects and visualises the most appropriate statistical hypothesis test between two data vectors. It implements a decision tree, commonly taught in courses on inferential statistics, based on the data type(s) and checks of statistical assumptions. See the  [visStatistics home page](https://shhschilling.github.io/visStatistics/index.html) and [vignette](https://shhschilling.github.io/visStatistics/articles/visStatistics.html).
       
 ### Examination
