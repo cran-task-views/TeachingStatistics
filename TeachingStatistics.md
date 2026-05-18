@@ -184,12 +184,6 @@ possible and, in some cases, a link to further resources.
     resources](http://www.stat.columbia.edu/~gelman/arm/).
 -   `r pkg("asbio")`: Aho, K. A. (2014), [Foundational and applied statistics for biologists using R](https://www.routledge.com/Foundational-and-Applied-Statistics-for-Biologists-Using-R/Aho/p/book/9781032477411), Routledge. [Further
     resources](https://www2.cose.isu.edu/~ahoken/book/).
--   `r pkg("BayesDA", priority = "core")`: Gelman, A.,
-    Carlin, J., Stern, H., Dunson, D., Vehtari, A., Rubin, D. (2013),
-    [Bayesian Data
-    Analysis](https://www.crcpress.com/Bayesian-Data-Analysis-Third-Edition/Gelman-Carlin-Stern-Dunson-Vehtari-Rubin/p/book/9781439840955)
-    , Third Edition. New York: Chapman and Hall/CRC. [Further
-    resources](http://www.stat.columbia.edu/~gelman/book/).
 -   `r pkg("Bolstad")`: Bolstad, W. M. and Curran, J. M.
     (2016), [Introduction to Bayesian
     Statistics](https://doi.org/10.1002/9781118593165) , Third Edition.
